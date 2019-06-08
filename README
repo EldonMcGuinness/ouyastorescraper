@@ -1,0 +1,11 @@
+# What is this?
+This scraper was writen to collect data about OUYA games from the OUYA Storefront and populate a Wikimedia driven site with said data.
+
+# Who can use this?
+Absolutely anyone, my gift to you. However, the OUYA storefront is closing soon so use it while you can.
+
+# What all does it scrape?
+It will pull all the data it can find, including APKs, Just not premium titles.
+
+# Why Python 2.7?
+This was an old script that I just decided to publish, it works and I never bothered to update it. Take it or leave it. :D
